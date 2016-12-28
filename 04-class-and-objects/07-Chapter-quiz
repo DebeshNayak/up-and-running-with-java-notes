@@ -1,0 +1,11 @@
+1. Which of the following options is used to build an instance of a class?
+Ans: Constructor
+
+2. Create an instance of the Employee class named emp that initializes the first and last name.
+Ans: Employee emp = new Employee("Tim", "Jones");
+
+3. Select the opton that represents a good example of a "is-a" relationship.
+Ans: An hourly employee is an employee
+
+4. With polymorphism, objects act differently under different circumstances.
+Ans: TRUE

@@ -1,0 +1,10 @@
+Challenge Objective:
+* Create a graphical user interface (GUI)
+* Use NetBeans GUI Interface builder
+* Add the following components to your frame
+
+  - Two panels
+  - First panel (Name): Label First name and its text field
+                        Label Last name and its text field
+  - Second panel: Languages -> Checkboxes as many as you can add of common programming language
+  - Exit button

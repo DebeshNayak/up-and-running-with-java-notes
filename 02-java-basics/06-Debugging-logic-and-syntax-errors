@@ -1,0 +1,6 @@
+Debugging logic and syntax errors:
+1. Syntax errors: A syntax error occurs when we make a mistake in our coding, such
+  as forgetting a semicolon to indicate the end of a statement.
+
+2. Logic errors: A logic error is harder to find. This occurs when we have all the
+  correct syntax but we coded a portion of the program with an error, such as maybe, divide by zero.

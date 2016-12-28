@@ -1,0 +1,4 @@
+Working with polymorphism:
+- A benefit of object-oriented programming
+- One common interface with many implementations
+- A case where inherited classes redefine a method behavior

@@ -1,0 +1,5 @@
+GUI Forms using Java:
+Graphical user interface.
+- Java GUI are based on frames.
+- Then we used the panels on top of the frame to group the items.
+- Once we create the frame or the window, we can then add components to the frame, such text fields, buttons, images.

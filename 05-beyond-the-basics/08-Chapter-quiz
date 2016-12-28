@@ -1,0 +1,8 @@
+1. Declare a two-dimentional string array with 5 rows and 10 columns.
+Ans: String[][] table = new String[5][10];
+
+2. Declare an array list of monitors.
+Ans: ArrayList<Monitor> monitors = new ArrayList<Monitor>();
+
+3. Binary search finds an element in an unsorted array.
+Ans: Yes, this is false.

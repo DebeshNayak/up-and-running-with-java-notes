@@ -1,0 +1,6 @@
+Comparing different types of loops:
+* Repeat a block of code.
+
+* do...while (Post-test loop) - Display item within its only once - Display list of menu items
+* while (Pre-test loop) - While a condition is true
+* for loop

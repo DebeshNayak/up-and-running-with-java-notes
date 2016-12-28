@@ -1,0 +1,8 @@
+Challenge Objectives:
+* Add decision-making logic
+* Add a loop
+
+ * Calculate patient charges in a Hospital charges:
+  - Determine if it is an overnight stay - Ask for overnight charges + medication charges + lab charges
+  - If not overnight stay - it is only medication charges and lab service charges
+  - Allow for multiple patients

@@ -1,0 +1,14 @@
+Using ArrayLists:
+
+Array can only hold primitive data types. So to store objects in the same way we need ArrayList.
+
+Advantage:
+* Increase and decrease the array size dynamically.
+
+Disadvantage:
+* Take up a bit more overhead.
+
+** Array is a good choice if the size of the array and only dealing with primitive data.
+* If we are using mixed data type then we have to use an ArrayList.
+
+import java.util.ArrayList;

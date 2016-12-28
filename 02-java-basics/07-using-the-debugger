@@ -1,0 +1,8 @@
+Using the debugger:
+
+1. Add a breakpoint - where we want to stop
+  - Two ways to do that:
+    1 - On the left side line number right click -> Select Breakpoint -> Toggle line breakpoint
+    2 - On the line -> Debug -> Toggle line breakpoint (Ctrl + F8)
+  - Then Debug -> Debug Project (Ctrl + F)
+2. Start Debugger shortcut - Ctrl + F5

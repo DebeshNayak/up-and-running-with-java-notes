@@ -1,0 +1,8 @@
+Introducing recursion:
+  - Recursion is the process of a method that calls itself to solve a problem.
+  - It can call itself again and again to help break down a larger problem to solve it in smaller steps.
+
+* What consititute the end of my process
+* Recursion used in programming in very rare cases.
+* Many of the recursive processes is being done using a loop.
+*

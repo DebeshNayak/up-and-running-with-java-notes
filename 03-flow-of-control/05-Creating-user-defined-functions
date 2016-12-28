@@ -1,0 +1,12 @@
+Creating user-defined functions:
+- A method is a group of statements used to accomplish a specific task.
+- It is sometimes referred to as a black box.
+
+A method includes:
+1. Visibility type: public, private, protected
+2. Return data type
+3. Method name
+4. List of parameters
+
+Void method: not return any value
+- Scope of a variable:

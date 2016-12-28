@@ -1,0 +1,5 @@
+Understanding inheritance:
+- one class is created from another.
+- Is a benefit of object-oriented programming
+- Occurs when a new class "inherits" data and methods
+- use the keyword "extend" and "implement"

@@ -1,0 +1,21 @@
+Understanding Arrays:
+
+Grocery List:
+
+* What if you have 100 items?
+* You could create 100 string variables.
+* You could create 100 double variables.
+
+A better way:
+* An array uses one variable name for multiple values.
+* An array must be declared with a size or initializer list.
+* And array is accessed using an index value.
+
+Syntax:
+data_type[] variable_name = new data_type[size];
+
+Caution:
+* Arrays can have an "out of bounds" error.
+* Arrays are always a fixed size. (If we access data at a index value greater than the
+  size of the array, then the program will abruptly end during execution, because this
+  isn't checked ahead of time by the compiler.)

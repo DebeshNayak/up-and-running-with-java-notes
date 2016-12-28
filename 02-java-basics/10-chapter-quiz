@@ -1,0 +1,17 @@
+1. Storing a string in a character type variable is considered a logic error.
+Ans: false
+
+2. What constitutes a block of code?
+Ans: {}
+
+3. What data type would you most likely use to store the number of students in a class?
+Ans: byte
+
+4. What symbol do you use to concatenate strings?
+Ans: +
+
+5. Declare an array of 5 integers named stores.
+Ans: int[] stores = new int[5];
+
+6. What keyboard shortcut can you use to debug your program?
+Ans: Ctrl + F5

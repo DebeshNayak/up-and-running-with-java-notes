@@ -1,0 +1,18 @@
+Creating Classes:
+
+- A class is a blue print of an object.
+Classes contains:
+  * Instance data:
+  * Constructor(s): which are special methods used to build an instance of our class.
+                    - Easy to identify, there is no return type and exact name as class
+  * Method(s): the blocks of code common to all objects of this class,
+              - Represents the object's behavior.
+
+Why classes?
+* Reusable
+  - Multiple programs can use the same class.
+
+* Encapsulate data
+  - Data is defined as private
+  - Data is accessed using get and set methods
+  (otherwise known as accessor and mutator methods)

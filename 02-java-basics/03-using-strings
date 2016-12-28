@@ -1,0 +1,11 @@
+* String is not a primitive data type
+
+- A Sequence of characters
+
+Strings:
+* Can be combined using concatenation
+* Can be divided using substring methods
+* Can be measured using the length method
+
+// string declare in java like following
+String vehicleType;

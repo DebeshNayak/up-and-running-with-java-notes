@@ -1,0 +1,18 @@
+What is Java?
+- Invented by Sun Microsystem at 1995.
+
+Feature of Java:
+----------------
+- Concurrent
+- Class-based
+- Object-oriented
+- Platform-independent
+- Generates bytecode
+- Runs on a Java Virtual Machine (JVM)
+- Incorporates a garbage collector
+- Derives it syntax from C++
+
+Java vs. JavaScript:
+------------------
+* Java is an application programming language.
+* JavaScript is designed for website development.

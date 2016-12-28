@@ -1,0 +1,5 @@
+IDE: It includes
+- Text editor to support write code.
+- Compiler to  convert to byte code.
+- Debugger and runtime environment used to test program execution.
+- IntelliSense - intelligent code assistance

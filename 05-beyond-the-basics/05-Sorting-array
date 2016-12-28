@@ -1,0 +1,16 @@
+Sorting array:
+- Binary search require Sorted array
+
+1. Selection sort:
+  * Selects the smallest (or largest) value and swaps it
+  * Requires a nested loop
+  * Requires N-1 iterations, where N is the size of the array
+
+2. Insertion Sort:
+  * This sort breaks the array into subarrays.
+  * Each iteration "inserts" the next value.
+  * After the last value is inserted, the array is sorted.
+
+3. Bubble Sort
+4. Quick Sort
+5. Merge Sort

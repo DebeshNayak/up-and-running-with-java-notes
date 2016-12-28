@@ -1,0 +1,12 @@
+import java.io.*
+- For file operation
+
+To open and read a file we need to do the following steps:
+1. Create a file object that specifies the filename, including the extension.
+2. Use scanner class to declare an object that allow to read from the file.
+
+To write to a file:
+1. File output = new File("customers.txt");
+2. PrintWriter out = new PrintWriter(output);
+3. out.println(name);
+4. out.close(); // if missed still be in buffer and the file will be empty

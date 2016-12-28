@@ -1,0 +1,7 @@
+Challenge Objective:
+* Create an ArrayList
+  - Fill with names of grocery items
+* Ask the user to enter an item name
+  - Search the ArrayList for a match
+
+Solution: Refer GroceryChallenge netbeans project

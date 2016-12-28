@@ -1,0 +1,23 @@
+What is Algorithm?
+- An algorithm is a set of steps needed to solve a problem.
+- It is written in our native tongue, and not in any particular programming language.
+- It helps the programmer to think through the problem and describe a possible solution without worrying about the implementation.
+
+Example: Cookie Recipe
+
+* Measure ingredients
+* Preheat oven
+* Mix ingredients
+* Place on cookie sheet
+* Bake for 10 - 20 minutes
+
+Example - 2: Calculate Gas Price for a Trip
+
+* What is the distance of the trip?
+* What is the MPG of your vehicle?
+* What is the price of one gallon of gas?
+
+So,
+
+* Calculate gallons needed (miles/MPG)
+* Calculate total trip cost (gallons needed  * price)

@@ -1,0 +1,15 @@
+Working with decisions:
+
+Decisions:
+
+Relational operators:
+  * <, <=, >, >=
+  * ==
+  * !=
+
+Logical operators:(join two or more statements)
+  * &&
+  * ||
+
+Decisions:
+  * If statements

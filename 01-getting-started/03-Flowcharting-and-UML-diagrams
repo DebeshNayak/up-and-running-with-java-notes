@@ -1,0 +1,21 @@
+Flowcharting and UML diagrams:
+
+- Flowcharts are a great way to create a visual representation of our program flow.
+
+- UML Diagram, Unified Modeling Language, also provide a visual of any classes we need to create.
+
+- When creating flowcharts, it forces us to break our programs down into pieces, otherwise known as stepwise refinement.
+- This shows us the processes needed to create our final solution.
+- From these flowcharts, we can start to encapsulate portions of our code into smaller methods.
+
+Flowchart Symbols:
+
+* Start/End - round circle
+* Process - rectangle
+* Decision - diamond
+* Data - Parallelogram
+* Files - Report
+
+Cash register at a grocessery story:
+-----------
+UML: For Visualizing your classes.

@@ -1,0 +1,13 @@
+Searching Arrays:
+1. Binary Search:
+  * Works only if the array is already sorted.
+  * compares a search value to the middle value in array
+  * If greater than that value, continues to split that half
+  * If smaller, splits the smaller values in half, and repeats
+  * Stops when value is found or array has been searched
+
+2. Linear Search:
+  * It starts with first element and compares it to the key.
+  * It continues to search every element in the array.
+  * If a match is found, it returns the position of the match.
+  * If not found, it returns -1.

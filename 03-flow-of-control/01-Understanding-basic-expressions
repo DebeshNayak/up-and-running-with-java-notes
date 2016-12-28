@@ -1,0 +1,36 @@
+Expressions:
+
++ Addition when applied to numbers
+
++ "Adds" two strings together, creating one long string (this is called concatenation)
+
+- Subtraction
+
+* Multiplication
+
+/ Division
+
+% Modulus division, also called remainder division
+
+* Algebra to Java:
+-----------------
+* Area of a circle:
+A = pi r ^ 2            -----> area = Math.PI * radius * radius
+
+* Pythagoras Theorem:
+a^2 + b^2 = c^2         -----> c = Math.sqrt(a*a + b*b)
+
+* Equation of a line:
+y = mx + b              -----> y = m * x + b or y = slope * x + yIntercept
+
+* Boolean Expressions:
+  - Evaluate to either true or false
+    - They are used in decision statements
+    - They are used as the condition of a loop
+
+Function for Math operation:
+- Min
+- Max
+- Absolute value
+- Square root
+- Power

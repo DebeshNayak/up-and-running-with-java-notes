@@ -1,0 +1,14 @@
+1. What symbol should you use to determine whether a number is even?
+Ans: %
+
+2. Write an expression that tests whether a number x is between 10 and 20.
+Ans: (x >= 10) && (x <= 20)
+
+3. Which loop executes its body at least once?
+Ans: do while loop
+
+4. If yo have a Random object name r, write a statement that generates a number between 1 and 100.
+Ans: int num = r.nextInt(100)+1
+
+5. Two methods in the same class with the same name but different parameter types are considered overloaded.
+Ans: true

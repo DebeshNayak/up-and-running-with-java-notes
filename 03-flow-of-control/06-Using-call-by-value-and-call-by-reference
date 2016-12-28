@@ -1,0 +1,11 @@
+Using call by value and call by reference:
+
+- There are two types of parameters:
+  1. Call by reference
+  2. Call by value
+
+** Array are always call by reference
+
+Remember:
+* Primitive data types are considered call by value
+* Variables such as arrays and objects are call by reference.

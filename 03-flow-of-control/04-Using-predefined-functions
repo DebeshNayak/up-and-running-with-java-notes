@@ -1,0 +1,7 @@
+- The Java API or application programming interface is a collection of software
+  packages that programmers can use for graphics, user interface, networking, sound,
+  database, math, and much more.
+
+- It contains many methods that have already been written and tested. In order to
+  use these specific methods in our program we have to import the necessary libraries
+  by adding them to our program.

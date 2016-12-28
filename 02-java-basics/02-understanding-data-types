@@ -1,0 +1,33 @@
+Understanding Data Types:
+- Java is a strict data typing language.
+
+Primitive Data Types:
+* Characters:
+  char letterA = 'a';
+
+* Boolean
+  Logic values that are either true or false
+  boolean result = true;
+
+* Integers (no fractional part)
+  byte, short, int, and long
+
+  byte(8 bit) -> -128 to 127
+  short(16 bit) -> -32,768 to 32,767
+  int(32 bit) -> -2^31 to 2^31-1
+  long(64 bit) -> -2^63 - 2^63
+
+* Rational Numbers (may have a fractional part)
+  float, double
+
+-> These data types are called primitive data types and other data types are called structured data
+-> Primitive data types store their values directly in memory with the variable names
+-> Structured data is stored by reference or by the address of the location and memory where the data exist
+
+Choose a Data Type:
+  Data                                Data type
+* Number of cars in a parking lot     int
+* Price of a grocery item             double or float
+* The vowel "a"                       char
+* The value "true"                    boolean
+* Students in a classroom             int
