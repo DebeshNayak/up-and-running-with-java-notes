@@ -1,5 +1,5 @@
 1. How can you determine if there are more lines to read in a file?
 Ans: Using hasNextLine()
 
-2. If hte name of the Exception object is called ex, how can you get more information about the exception?
+2. If the name of the Exception object is called ex, how can you get more information about the exception?
 Ans: ex.toString()

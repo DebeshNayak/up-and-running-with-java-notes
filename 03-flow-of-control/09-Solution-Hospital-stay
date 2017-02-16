@@ -1,6 +1,6 @@
 /*
  * This challenge computers and display the total charges for a hospital stay
- * The patient might be admitted overnight. Fro an overnight stay, we need:
+ * The patient might be admitted overnight. For an overnight stay, we need:
  *  The number of days spent in the hospital
  *  The daily rate
  *  Medication charges
@@ -37,7 +37,7 @@ public class HospitalCharges {
             labCharges = in.nextDouble();
             totalCost = hospitalCharges + medCharges + labCharges;
             printTotal(totalCost);
-            System.out.println("Do you have another patinet? (y/n)");
+            System.out.println("Do you have another patient? (y/n)");
             response = in.next();
         }while(response.equalsIgnoreCase("y"));
     }
@@ -52,7 +52,7 @@ public class HospitalCharges {
             return false;
     }
     public static void printTotal(double totalCost){
-        System.out.printf("The total cost ofr this patient is: $%6.2f", totalCost);
+        System.out.printf("The total cost for this patient is: $%6.2f", totalCost);
     }
 
 }
